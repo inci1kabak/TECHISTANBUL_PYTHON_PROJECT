@@ -1,4 +1,4 @@
-# TECHISTANBUL_PYTHON_PROJECT
+# TECHISTANBUL PYTHON PROJECT
 # **Clothing Order Program**
 
 ## **English Description**  
