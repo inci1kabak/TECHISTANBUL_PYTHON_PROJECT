@@ -1,6 +1,6 @@
-# TECHISTANBUL PYTHON PROJECT : **Clothing Order Program**
+# TECHISTANBUL PYTHON PROJECT : **CLOTHİNG ORDER PROGRAM**
 
-## **English Description**  
+## **Description**  
 This project is a simple Python application that calculates the total cost of a customer's clothing order. The program includes a base set of items with fixed prices and offers additional options that can be added to the order.
 
 ## **How it Works:**
